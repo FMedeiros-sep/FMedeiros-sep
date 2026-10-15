@@ -1,12 +1,12 @@
 # bem vindo ao meu perfil
-# me chamo Fabian antonio 
+ me chamo Fabian antonio 
 
-###  Desenvolvedor Full Stack Júnior
+  Desenvolvedor Full Stack Júnior
 
 Sou desenvolvedor Full Stack Júnior crio  soluções web e mobile completas, integrando interfaces modernas e responsivas no Front-end com arquiteturas eficientes e bancos de dados no Back-end.
 ---
 
-##  Sobre mim
+ Sobre mim
 
 - 💻 **Front-end:** Experiência no desenvolvimento de interfaces com **React**, **HTML5/CSS3** e aplicações mobile com **Flutter**.
 - ⚙️ **Back-end:** Construção de APIs, lógica de negócios e manipulação de sistemas com **Python**, **Java**, **C++** e **Node.js**.
